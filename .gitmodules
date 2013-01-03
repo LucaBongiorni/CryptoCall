@@ -1,0 +1,9 @@
+[submodule "cryptocall-ui"]
+	path = cryptocall-ui
+	url = git@github.com:cryptocall/cryptocall-ui.git
+[submodule "csipsimple"]
+	path = csipsimple
+	url = git@github.com:cryptocall/csipsimple.git
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git@github.com:cryptocall/ActionBarSherlock.git
