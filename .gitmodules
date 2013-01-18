@@ -7,3 +7,9 @@
 [submodule "ActionBarSherlock"]
 	path = ActionBarSherlock
 	url = git@github.com:cryptocall/ActionBarSherlock.git
+[submodule "CSipSimpleVideoPlugin"]
+	path = CSipSimpleVideoPlugin
+	url = git@github.com:cryptocall/CSipSimpleVideoPlugin.git
+[submodule "CSipSimpleCodecPack"]
+	path = CSipSimpleCodecPack
+	url = git@github.com:cryptocall/CSipSimpleCodecPack.git
